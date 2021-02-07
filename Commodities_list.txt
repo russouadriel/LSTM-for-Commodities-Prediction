@@ -1,0 +1,17 @@
+CL=F
+GC=F
+SI=F
+HG=F
+PL=F
+NG=F
+LE=F
+HE=F
+ZC=F
+KE=F
+ZR=F
+SB=F
+KC=F
+ZO=F
+CC=F
+CT=F
+ZS=F

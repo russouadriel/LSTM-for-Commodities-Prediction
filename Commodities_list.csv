@@ -1,0 +1,18 @@
+﻿name_es,cod,name_en
+petroleo,CL=F,Crude Oil
+oro,GC=F,Gold
+plata,SI=F,Silver
+cobre,HG=F,Copper 
+platino,PL=F,Platinum
+gas natural,NG=F,Natural Gas
+bovino,LE=F,Live Cattle 
+porcino,HE=F,Lean Hogs
+maiz,ZC=F,Corn
+trigo,KE=F,KC HRW Wheat
+arroz,ZR=F,Rough Rice
+azucar,SB=F,Sugar
+café,KC=F,Coffee
+avena,ZO=F,Oat
+cacao,CC=F,Cocoa
+algodon,CT=F,Cotton
+soja,ZS=F,Soybean
